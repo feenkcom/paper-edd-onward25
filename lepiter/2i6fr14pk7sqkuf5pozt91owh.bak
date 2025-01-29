@@ -18,7 +18,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-01-29T17:52:07.586442+01:00"
+						"dateAndTimeString" : "2025-01-29T17:57:57.288506+01:00"
 					}
 				},
 				"editEmail" : {
@@ -29,61 +29,23 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-01-29T17:52:23.314541+01:00"
+						"dateAndTimeString" : "2025-01-29T17:58:37.646251+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "qw7p3TzpDQCbJ8wIDtlPKg=="
+					"uidString" : "ZxPB8jzpDQCcc49eDtlPKg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[Onward! Papers CFP](https://2025.splashcon.org/track/splash-2025-Onward-papers)"
+				"string" : "This is the [repo](https://github.com/feenkcom/paper-edd-onward25) for a paper on Example-Driven Development to be submitted to [Onward! 2025](https://2025.splashcon.org/track/splash-2025-Onward-papers). The repo contains not only the LaTeX source code, but also GT examples and Lepiter pages of notes."
 			},
 			{
 				"__type" : "textSnippet",
 				"children" : {
 					"__type" : "snippets",
-					"items" : [
-						{
-							"__type" : "textSnippet",
-							"children" : {
-								"__type" : "snippets",
-								"items" : [ ]
-							},
-							"createEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"createTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-01-29T17:52:28.664131+01:00"
-								}
-							},
-							"editEmail" : {
-								"__type" : "email",
-								"emailString" : "<unknown>"
-							},
-							"editTime" : {
-								"__type" : "time",
-								"time" : {
-									"__type" : "dateAndTime",
-									"dateAndTimeString" : "2025-01-29T17:52:39.822353+01:00"
-								}
-							},
-							"uid" : {
-								"__type" : "uid",
-								"uidString" : "lKsq3zzpDQCb0hsmDtlPKg=="
-							},
-							"paragraphStyle" : {
-								"__type" : "textStyle"
-							},
-							"string" : "Thu 24 Apr 2025new\nSubmission deadline\nFri 6 Jun 2025new\nFirst-round notification\nThu 17 Jul 2025new\nSecond-round submission\nMon 11 Aug 2025new\nFinal notification"
-						}
-					]
+					"items" : [ ]
 				},
 				"createEmail" : {
 					"__type" : "email",
@@ -93,7 +55,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-01-29T17:52:24.244395+01:00"
+						"dateAndTimeString" : "2025-01-29T17:59:12.991153+01:00"
 					}
 				},
 				"editEmail" : {
@@ -104,17 +66,54 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-01-29T17:52:28.363501+01:00"
+						"dateAndTimeString" : "2025-01-29T17:59:15.669283+01:00"
 					}
 				},
 				"uid" : {
 					"__type" : "uid",
-					"uidString" : "6Trn3jzpDQCbnO0NDtlPKg=="
+					"uidString" : "/jRE9zzpDQCeqZVtDtlPKg=="
 				},
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "Deadlines:"
+				"string" : "To"
+			},
+			{
+				"__type" : "textSnippet",
+				"children" : {
+					"__type" : "snippets",
+					"items" : [ ]
+				},
+				"createEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"createTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-01-29T17:58:50.853251+01:00"
+					}
+				},
+				"editEmail" : {
+					"__type" : "email",
+					"emailString" : "<unknown>"
+				},
+				"editTime" : {
+					"__type" : "time",
+					"time" : {
+						"__type" : "dateAndTime",
+						"dateAndTimeString" : "2025-01-29T17:58:56.206903+01:00"
+					}
+				},
+				"uid" : {
+					"__type" : "uid",
+					"uidString" : "42jy9TzpDQCdb9dPDtlPKg=="
+				},
+				"paragraphStyle" : {
+					"__type" : "textStyle"
+				},
+				"string" : "[[EDD Notes]]"
 			}
 		]
 	},
