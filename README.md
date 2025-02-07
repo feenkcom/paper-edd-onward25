@@ -1,4 +1,7 @@
+# Example-Driven Development
+
 This is the repo for a paper on Example-Driven Development to be submitted to Onward! 2025. 
+
 The repo contains not only the LaTeX source code, but also GT examples and Lepiter pages of notes.
 ## Installation
 
