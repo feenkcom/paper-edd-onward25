@@ -29,7 +29,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-01-29T18:00:52.346254+01:00"
+						"dateAndTimeString" : "2025-01-29T18:01:42.872528+01:00"
 					}
 				},
 				"uid" : {
@@ -39,7 +39,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[AC]]: Hey! Should we aim for a paper for onward that builds on the paper about examples with a bigger focus on lepiter: describing the lepiter model and it’s integration with the code model from Pharo. The very nice case that we have is that doing that enables refactorings and code references to work across both code and documentation."
+				"string" : "[[AC]]: Hey! Should we aim for a paper for onward that builds on the paper about examples with a bigger focus on lepiter: describing the lepiter model and its integration with the code model from Pharo. The very nice case that we have is that doing that enables refactorings and code references to work across both code and documentation."
 			},
 			{
 				"__type" : "textSnippet",
