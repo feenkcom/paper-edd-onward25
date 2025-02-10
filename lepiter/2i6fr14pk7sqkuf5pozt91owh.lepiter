@@ -136,12 +136,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-02-10T10:45:53.11082+01:00"
+			"dateAndTimeString" : "2025-02-10T11:12:20.526671+01:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "Onward! 2025 Paper"
+		"title" : "EDD Onward! 2025 Paper"
 	},
 	"uid" : {
 		"__type" : "uuid",
