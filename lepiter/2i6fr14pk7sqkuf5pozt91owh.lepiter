@@ -103,7 +103,7 @@
 					"__type" : "time",
 					"time" : {
 						"__type" : "dateAndTime",
-						"dateAndTimeString" : "2025-01-29T17:58:56.206903+01:00"
+						"dateAndTimeString" : "2025-02-10T10:48:36.218796+01:00"
 					}
 				},
 				"uid" : {
@@ -113,7 +113,7 @@
 				"paragraphStyle" : {
 					"__type" : "textStyle"
 				},
-				"string" : "[[EDD Notes]]"
+				"string" : "[[Co-Evolution Topic Notes]]"
 			}
 		]
 	},
@@ -136,12 +136,12 @@
 		"__type" : "time",
 		"time" : {
 			"__type" : "dateAndTime",
-			"dateAndTimeString" : "2025-01-29T17:46:59.737094+01:00"
+			"dateAndTimeString" : "2025-02-10T10:45:53.11082+01:00"
 		}
 	},
 	"pageType" : {
 		"__type" : "namedPage",
-		"title" : "EDD Onward! 2025 Paper"
+		"title" : "Onward! 2025 Paper"
 	},
 	"uid" : {
 		"__type" : "uuid",
